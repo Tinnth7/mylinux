@@ -1,12 +1,13 @@
-# myniriconfig
+# mylinux
 
-A minimal, rounded, transparent and blurred [niri](https://github.com/niri-wm/niri) setup on CachyOS (Arch).
+Config files for my Linux system!
 
 Includes configs for:
 
 | Part | What it does |
 |------|--------------|
 | **niri** | Compositor: no borders, rounded corners, blur on kitty and fuzzel |
+| **Hyprland** | I don't use this much, honestly. Nothing really special. |
 | **waybar** | Floating bar with workspaces, clock, volume, network, battery |
 | **kitty** | Terminal at 60% opacity |
 | **fuzzel** | App launcher and emoji picker backend |
