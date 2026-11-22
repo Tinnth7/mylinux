@@ -123,9 +123,6 @@ window-rule {
 
 `xray false` blurs everything under the window instead of only the wallpaper. Remove the block to turn blur off.
 
-**Bar network text** — `~/.config/waybar/network.sh` shows `Connected : WiFi`, `Ethernet` or `WiFi + Ethernet`. It needs NetworkManager (`nmcli`).
-
-**Bar fonts and icons** — change `font-family` in `~/.config/waybar/style.css`. If icons show as empty boxes, the Nerd Font is missing.
 
 ## Troubleshooting
 
